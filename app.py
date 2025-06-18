@@ -222,7 +222,7 @@ if __name__ == "__main__":
 
 # Replace the existing if __name__ == "__main__": block with:
 if __name__ == "__main__":
-    app.run(debug=True)
+    pass
 
 # Add this for Vercel deployment
 app = app
